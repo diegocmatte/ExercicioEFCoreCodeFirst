@@ -1,0 +1,10 @@
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.deps.json
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.runtimeconfig.json
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.runtimeconfig.dev.json
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.dll
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.AssemblyInfoInputs.cache
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.AssemblyInfo.cs
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.pdb
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.dll
+C:\Users\DiegoCansiMatte\source\repos\ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\ExercicioEFCoreCodeFirst.pdb
